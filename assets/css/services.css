@@ -1,0 +1,58 @@
+.process-improvement {
+    padding: 4rem 2rem;
+    background: rgba(27, 117, 184, 0.05);
+}
+
+.process-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+}
+
+.process-visual img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(27, 117, 184, 0.2);
+}
+
+.process-description {
+    padding: 2rem;
+    background: rgba(27, 117, 184, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+}
+
+.process-description h3 {
+    color: var(--primary-blue);
+    margin-bottom: 1rem;
+}
+
+.process-description ul {
+    list-style: none;
+    padding: 0;
+}
+
+.process-description ul li {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.process-description ul li:before {
+    content: "→";
+    color: var(--primary-blue);
+    position: absolute;
+    left: 0;
+}
+
+@media (max-width: 768px) {
+    .process-content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+[Previous CSS remains the same]

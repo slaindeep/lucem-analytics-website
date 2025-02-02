@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch96">
+      <stop
+         style="stop-color:#1b75b8;stop-opacity:1;"
+         offset="0"
+         id="stop96" />
+    </linearGradient>
+    <linearGradient
+       id="swatch94">
+      <stop
+         style="stop-color:#b4b4b4;stop-opacity:1;"
+         offset="0"
+         id="stop94" />
+    </linearGradient>
+    <rect
+       x="140.48883"
+       y="268.45886"
+       width="161.35351"
+       height="95.97752"
+       id="rect62" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter21"
+       x="-0.10737305"
+       y="-0.1006071"
+       width="1.2594849"
+       height="1.2431338">
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "
+         result="result1"
+         id="feColorMatrix16" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         result="result9"
+         id="feColorMatrix17" />
+      <feComposite
+         in2="result9"
+         in="SourceGraphic"
+         operator="in"
+         result="result4"
+         id="feComposite17" />
+      <feFlood
+         result="result2"
+         flood-color="rgb(0,0,0)"
+         id="feFlood17" />
+      <feComposite
+         in2="result9"
+         operator="in"
+         result="result10"
+         id="feComposite18" />
+      <feComposite
+         in2="result4"
+         operator="atop"
+         id="feComposite19" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result8"
+         id="feGaussianBlur19" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="result3"
+         in="result8"
+         id="feOffset19" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(219,173,62)"
+         result="result5"
+         id="feFlood19" />
+      <feMerge
+         result="result6"
+         id="feMerge21">
+        <feMergeNode
+           in="result5"
+           id="feMergeNode19" />
+        <feMergeNode
+           in="result3"
+           id="feMergeNode20" />
+        <feMergeNode
+           in="result4"
+           id="feMergeNode21" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite21" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter26"
+       x="-1.7910259"
+       y="-0.1164549"
+       width="5.3283125"
+       height="1.2814327">
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "
+         result="result1"
+         id="feColorMatrix21" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         result="result9"
+         id="feColorMatrix22" />
+      <feComposite
+         in2="result9"
+         in="SourceGraphic"
+         operator="in"
+         result="result4"
+         id="feComposite22" />
+      <feFlood
+         result="result2"
+         flood-color="rgb(0,0,0)"
+         id="feFlood22" />
+      <feComposite
+         in2="result9"
+         operator="in"
+         result="result10"
+         id="feComposite23" />
+      <feComposite
+         in2="result4"
+         operator="atop"
+         id="feComposite24" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result8"
+         id="feGaussianBlur24" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="result3"
+         in="result8"
+         id="feOffset24" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(219,173,62)"
+         result="result5"
+         id="feFlood24" />
+      <feMerge
+         result="result6"
+         id="feMerge26">
+        <feMergeNode
+           in="result5"
+           id="feMergeNode24" />
+        <feMergeNode
+           in="result3"
+           id="feMergeNode25" />
+        <feMergeNode
+           in="result4"
+           id="feMergeNode26" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite26" />
+    </filter>
+    <linearGradient
+       xlink:href="#swatch96"
+       id="linearGradient96"
+       x1="49.009653"
+       y1="75.048462"
+       x2="145.30843"
+       y2="75.048462"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#598cc0;fill-opacity:1;stroke-width:0.202078;filter:url(#filter21)"
+       d="m 27.716631,66.884848 -0.771284,61.502162 h 0.10232 l 0.002,0.0724 57.798729,0.70514 9.152886,0.0282 -64.636812,-4.29955 -1.731575,-67.265978 z"
+       transform="matrix(1.9054231,-0.01666166,0.00764511,1.1660514,-27.476688,-21.33631)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.0130423px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1b75b8;fill-opacity:1;stroke-width:0.260846"
+       x="31.393055"
+       y="124.37549"
+       id="text64-7"
+       transform="scale(1.0143282,0.98587418)"><tspan
+         id="tspan64-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1b75b8;fill-opacity:1;stroke-width:0.260846"
+         x="31.393055"
+         y="124.37549">ucem analytics</tspan></text>
+    <circle
+       style="fill:#1b75b8;fill-opacity:1;stroke-width:0.371247"
+       id="path69"
+       cx="49.102776"
+       cy="105.05359"
+       r="2" />
+    <circle
+       style="fill:#1b75b8;fill-opacity:1;stroke-width:0.371247"
+       id="path69-3"
+       cx="69.915909"
+       cy="93.486725"
+       r="2" />
+    <circle
+       style="fill:#1b75b8;fill-opacity:1;stroke-width:0.371247"
+       id="path69-6"
+       cx="95.888191"
+       cy="87.229713"
+       r="2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.0132292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1b75b8;fill-opacity:1;stroke-width:0.264583"
+       x="48.143723"
+       y="136.36383"
+       id="text69"><tspan
+         id="tspan69"
+         x="0"
+         y="0">Connecting the dots</tspan></text>
+    <circle
+       style="fill:#1b75b8;fill-opacity:1;stroke-width:0.371247"
+       id="path69-6-7-3"
+       cx="118.99176"
+       cy="73.293152"
+       r="2" />
+    <circle
+       style="fill:#1b75b8;fill-opacity:1;stroke-width:0.371247"
+       id="path69-6-7-1"
+       cx="132.81953"
+       cy="57.470985"
+       r="2" />
+    <g
+       id="g94">
+      <path
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient96);stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0.6325"
+         d="m 49.315983,105.2565 13.621464,-7.540449 6.620172,-3.868468 11.618176,-2.85215 c 4.386019,-1.111949 10.656813,-1.965669 15.860405,-4.267865 5.20359,-2.302196 16.31696,-9.073295 22.57346,-14.164373 6.25651,-5.091078 8.09666,-11.823484 12.88105,-14.414496"
+         id="path93" />
+    </g>
+  </g>
+</svg>
